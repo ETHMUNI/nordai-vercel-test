@@ -1,0 +1,25 @@
+.from-blue-NordAI {
+    background-color: #00FFFF;
+  }
+  
+  .to-black-NordAI {
+    background-color: #030B1B;
+  }
+
+  .twitter-blue {
+    background-color: #1DA1F2;
+  }
+  
+  .bg-gradient-to-r {
+    background-image: linear-gradient(to top right, var(--from-blue-NordAI), var(--to-black-NordAI));
+  }
+
+  .btn-gradient-to-r {
+    background-color: linear-gradient(to top right, var(--from-blue-NordAI), var(--to-black-NordAI));
+  }
+  
+  .logo {
+    width: 300px;
+    height: 200px;
+  }
+  
