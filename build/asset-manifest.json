@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/nordai/static/css/main.e3449405.css",
-    "main.js": "/nordai/static/js/main.9683db40.js",
-    "main.js.map": "/nordai/static/js/main.9683db40.js.map",
-    "static/js/1.92848bd4.chunk.js": "/nordai/static/js/1.92848bd4.chunk.js",
-    "static/js/1.92848bd4.chunk.js.map": "/nordai/static/js/1.92848bd4.chunk.js.map",
-    "index.html": "/nordai/index.html",
-    "static/css/main.e3449405.css.map": "/nordai/static/css/main.e3449405.css.map",
-    "static/js/main.9683db40.js.LICENSE.txt": "/nordai/static/js/main.9683db40.js.LICENSE.txt",
-    "static/media/logoai.fdda1f1c.png": "/nordai/static/media/logoai.fdda1f1c.png",
-    "static/media/logoheader.2f3b05c7.png": "/nordai/static/media/logoheader.2f3b05c7.png",
-    "static/media/youtubeicon.c89fcc03.png": "/nordai/static/media/youtubeicon.c89fcc03.png"
+    "main.css": "/static/css/main.5b08b334.css",
+    "main.js": "/static/js/main.7507f9b8.js",
+    "main.js.map": "/static/js/main.7507f9b8.js.map",
+    "static/js/1.55a8694e.chunk.js": "/static/js/1.55a8694e.chunk.js",
+    "static/js/1.55a8694e.chunk.js.map": "/static/js/1.55a8694e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5b08b334.css.map": "/static/css/main.5b08b334.css.map",
+    "static/js/main.7507f9b8.js.LICENSE.txt": "/static/js/main.7507f9b8.js.LICENSE.txt",
+    "static/media/logoai.fdda1f1c.png": "/static/media/logoai.fdda1f1c.png",
+    "static/media/logoheader.2f3b05c7.png": "/static/media/logoheader.2f3b05c7.png",
+    "static/media/youtubeicon.c89fcc03.png": "/static/media/youtubeicon.c89fcc03.png"
   },
   "entrypoints": [
-    "static/css/main.e3449405.css",
-    "static/js/main.9683db40.js"
+    "static/css/main.5b08b334.css",
+    "static/js/main.7507f9b8.js"
   ]
 }
